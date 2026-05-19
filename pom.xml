@@ -117,7 +117,7 @@
 
 							<!-- Caminho do YAML -->
 							<inputSpec>
-								${project.basedir}/src/main/resources/openapi.yaml
+								${project.basedir}/src/main/resources/static/openapi.yaml
 							</inputSpec>
 
 							<!-- Generator -->
